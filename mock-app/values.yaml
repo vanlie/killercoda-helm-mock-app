@@ -2,5 +2,5 @@ appName: mock-app
 message: "Interesting learning curve, keep going ! You rock!11! Not paper not scissor! 3 musks"
 image:
   repository: benmalekarim/mock-app
-  tag: v1.3.0
+  tag: v1.1.0
 replicas: 3
